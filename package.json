@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack-dev-server --entry ./src/app.js --output-filename ./dist/bundle.js  --mode=development"
+    "build": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
